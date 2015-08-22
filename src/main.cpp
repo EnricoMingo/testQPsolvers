@@ -13,7 +13,7 @@
 using namespace Eigen;
 using namespace std;
 
-//#define NO_TEST_MOSEK
+#define NO_TEST_MOSEK
 #define NO_TEST_OOQP
 
 int main( )
